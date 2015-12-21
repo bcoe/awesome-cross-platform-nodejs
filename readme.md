@@ -14,7 +14,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Development Environment](#developer-environment)
   - [Databases](#databases)
 - [Libraries](#libraries)
-  - [Node.js](node.js)
 
 ## Resources
 
@@ -44,7 +43,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
 
 ## Libraries
-
-### Node.js
 
 - [win-spawn](https://github.com/ForbesLindesay/win-spawn) - cross-platform implementation of Node.js' `child_process.spawn()`.
