@@ -1,6 +1,6 @@
-# Awesome Windows Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cross-Platform Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [developer tools](#developer-tools) and [libraries](#libraries) for writing and testing code that runs on Windows.
+> A curated list of awesome [libraries](#libraries) and [developer tools](#developer-tools) for writing and testing code that works on Windows and Unix-like platforms.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 - [Microsoft Open Technologies](https://github.com/MSOpenTech) - creates Windows ports of non-Microsoft technologies.
+- [Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
 ## Developer Tools
 
