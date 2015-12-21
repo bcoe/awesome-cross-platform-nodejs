@@ -17,8 +17,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
-- [Microsoft Open Technologies](https://github.com/MSOpenTech) - creates Windows ports of non-Microsoft technologies.
-- [Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+- [Microsoft Open Technologies](https://github.com/MSOpenTech) - Windows ports of non-Microsoft technologies.
+- [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 
 ## Developer Tools
 
@@ -35,13 +35,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Development Environment
 
-- [Atom](https://github.com/atom/atom/releases/latest) - A full-featured hackable text editor.
-- [Node.js](https://nodejs.org/en/download/) - Windows Node.js installer.
+- [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
+- [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
 
 ### Databases
 
-- [Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
+- [MSOpenTech Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
 
 ## Libraries
 
-- [win-spawn](https://github.com/ForbesLindesay/win-spawn) - cross-platform implementation of Node.js' `child_process.spawn()`.
+- [any-path](https://github.com/bcoe/any-path) - use Windows and POSIX paths interchangeably when fetching values from an object.  
+- [is-windows](https://github.com/jonschlinkert/is-windows) - detect whether the current platform is Windows.
+- [rimraf](https://github.com/isaacs/rimraf) - cross-platform rm -rf.
+- [mkdirp](https://www.npmjs.com/package/mkdirp) - cross-platform mkdir -p.
+- [win-spawn](https://github.com/ForbesLindesay/win-spawn) - cross-platform implementation of child_process.spawn().
+- [which](https://github.com/npm/node-which) - cross-platform implementation of unix's which.
