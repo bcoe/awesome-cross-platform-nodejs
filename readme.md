@@ -39,7 +39,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.  
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
-- [rimraf](https://github.com/isaacs/rimraf) - Cross-platform rm -rf.
-- [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform mkdir -p.
-- [win-spawn](https://github.com/ForbesLindesay/win-spawn) - Cross-platform implementation of child_process.spawn().
-- [which](https://github.com/npm/node-which) - Cross-platform implementation of unix's which.
+- [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
+- [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform `mkdir -p`.
+- [win-spawn](https://github.com/ForbesLindesay/win-spawn) - Cross-platform implementation of `child_process.spawn()`.
+- [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
+- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
+- [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables. Cross-platform.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
+- [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
+- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
