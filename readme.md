@@ -8,11 +8,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Resources](#resources)
 - [Continuous Integration](#continuous-integration)
-- [Developer Tools](#developer-tools)
+- [Applications](#applications)
   - [Virtualization](#virtualization)
-  - [Continuous Integration](#continuous-integration)
   - [Development Environment](#developer-environment)
-  - [Databases](#databases)
 - [Libraries](#libraries)
 
 ## Resources
@@ -24,7 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AppVeyor](http://www.appveyor.com/) - Continuous integration service for Windows. Free tiers are available for OSS projects.
 
-## Developer Tools
+## Applications
 
 ### Virtualization
 
@@ -39,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
-- [any-path](https://github.com/bcoe/any-path) - use Windows and POSIX paths interchangeably when fetching values from an object.  
+- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.  
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
 - [rimraf](https://github.com/isaacs/rimraf) - Cross-platform rm -rf.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform mkdir -p.
