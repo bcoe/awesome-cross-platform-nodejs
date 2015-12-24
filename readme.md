@@ -8,7 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Resources](#resources)
 - [Known Issues](#known-issues)
-- [Continuous Integration](#continuous-integration)
+- [Online Tools](#online-tools)
 - [Applications](#applications)
   - [Virtualization](#virtualization)
   - [Development Environment](#developer-environment)
@@ -26,7 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-gyp on Windows](https://github.com/nodejs/node-gyp/issues/629) - it can be quite painful to compile native modules on Windows.
 - [stdio issues on v0.10.x](https://github.com/nodejs/node-v0.x-archive/issues/3584) - a race condition in stdio lead to confusing terminal output when testing on Windows prior to Node v0.11.12.
 
-## Continuous Integration
+## Online Tools
 
 - [AppVeyor](http://www.appveyor.com/) - Continuous integration service for Windows. Free tiers are available for OSS projects.
 
