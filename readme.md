@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 - [node-gyp on Windows](https://github.com/nodejs/node-gyp/issues/629) - it can be quite painful to compile native modules on Windows.
 - [stdio issues on v0.10.x](https://github.com/nodejs/node-v0.x-archive/issues/3584) - a race condition in stdio lead to confusing terminal output when testing on Windows prior to Node v0.11.12.
+- [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.fork()` has inconsistent exit behavior.
 
 ## Online Tools
 
