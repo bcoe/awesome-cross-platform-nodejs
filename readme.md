@@ -19,6 +19,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Microsoft Open Technologies](https://github.com/MSOpenTech) - Windows ports of non-Microsoft technologies.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - a great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
+- [Node.js AppVeyor Configuration](https://github.com/bcoe/nyc/blob/master/appveyor.yml) - a great configuration file to use as a starting point for adding your Node.js project to AppVeyor CI.
 
 ## Known Issues
 
