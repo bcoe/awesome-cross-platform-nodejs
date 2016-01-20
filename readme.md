@@ -65,3 +65,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
 - [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
