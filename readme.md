@@ -53,7 +53,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
 - [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform `mkdir -p`.
-- [win-spawn](https://github.com/ForbesLindesay/win-spawn) - Cross-platform implementation of `child_process.spawn()`.
 - [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
 - [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
@@ -67,3 +66,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
