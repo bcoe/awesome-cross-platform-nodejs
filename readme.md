@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
 - [MSOpenTech Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
 
 ## Libraries
 
