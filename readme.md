@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
 - [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
+- [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
 - [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
