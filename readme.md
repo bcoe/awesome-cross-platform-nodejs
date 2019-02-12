@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Virtualization](#virtualization)
   - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
+- [Command-Line Tools](#command-line-tools)
 
 ## Resources
 
@@ -68,3 +69,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - Cross-platform copy/paste.
+
+## Command-Line Tools
+
+- [clipboardy-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
