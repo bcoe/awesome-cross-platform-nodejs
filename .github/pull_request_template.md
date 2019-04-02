@@ -3,4 +3,4 @@
 Please make sure:
 
   - [ ] the title is clear and descriptive.
-  - [ ] you've read the [contribution guidelines](../blob/master/CONTRIBUTING.md).
+  - [ ] you've read the [contribution guidelines](../blob/master/contributing.md).
