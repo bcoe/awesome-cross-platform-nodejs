@@ -85,7 +85,7 @@ If the documentation is unclear or has a typo, please click on the page's `Edit`
 button (pencil icon) and suggest a correction.
 
 If you would like to help us fix an error or add more information, please check
-our [guidelines](CONTRIBUTING.md). Pull requests are welcome!
+our [guidelines](contributing.md). Pull requests are welcome!
 
 Thanks goes to these wonderful people:
 
