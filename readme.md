@@ -120,6 +120,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
 
+### Windows registry
+
+- [node-winreg](https://github.com/fresc81/node-winreg) - Access the Windows registry.
+- [rage-edit](https://github.com/MikeKovarik/rage-edit) - Access/modify the Windows registry.
+- [windows-registry-node](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file assocations.
+
 ## Support
 
 If you found an error or would like to add more information, _don't hesitate_ to
