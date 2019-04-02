@@ -75,6 +75,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 If you found an error or would like to add more information, _don't hesitate_ to
 [submit an issue on GitHub](../../issues).
 
+Everyone is welcome regardless of personal background. We enforce a
+[Code of conduct](CODE_OF_CONDUCT.md) in order to promote a positive and
+inclusive environment.
+
 ## Contributing
 
 This project was made with ❤️. The simplest way to give back is by starring and
