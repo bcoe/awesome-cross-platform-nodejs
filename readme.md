@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
 - [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
+- [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`.
 
 ## Support
 
