@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Applications](#applications)
   - [Continuous integration](#continuous-integration)
   - [Virtualization](#virtualization)
+  - [Compatibility](#compatibility)
   - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
   - [OS identification](#os-identification)
@@ -48,6 +49,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 
+### Compatibility
+
+- [MinGW](http://www.mingw.org/) - `gcc` on Windows.
+- [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
+
 ### Development Environment
 
 - [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
@@ -55,8 +61,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MSOpenTech Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [MinGW](http://www.mingw.org/) - `gcc` on Windows.
-- [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
 
 ## Libraries
 
