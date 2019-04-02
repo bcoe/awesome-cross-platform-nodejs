@@ -80,6 +80,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information.
 - [is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges.
 - [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes.
+- [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists.
 
 ## Support
 
