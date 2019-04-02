@@ -50,7 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
-- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.  
+- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
 - [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform `mkdir -p`.
