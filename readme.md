@@ -13,6 +13,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Virtualization](#virtualization)
   - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
+  - [OS identification](#os-identification)
+  - [Shell](#shell)
+  - [Environment](#environment)
+  - [Filesystem](#filesystem)
+  - [Signals](#signals)
+  - [Processes](#processes)
+  - [Desktop UI](#desktop-ui)
 - [Support](#support)
 - [Contributing](#contributing)
 
