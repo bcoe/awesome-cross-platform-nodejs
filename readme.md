@@ -53,7 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
 - [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
-- [mkdirp](https://github.com/substack/node-mkdirp) - Cross-platform `mkdir -p`.
+- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`.
 - [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
 - [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
