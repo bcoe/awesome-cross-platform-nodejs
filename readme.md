@@ -51,6 +51,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Compatibility
 
+- [Wine](https://www.winehq.org/): run Windows API calls on Linux, Mac, BSD and Solaris.
+- [Cygwin](https://www.cygwin.com/): run POSIX on Windows.
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10): run the Linux command line on Windows (ELF binary execution, system calls, filesystem, Bash, core utilities, common applications).
 - [MinGW](http://www.mingw.org/) - `gcc` on Windows.
 - [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
 
