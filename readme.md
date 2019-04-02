@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
 - [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`.
 - [osenv](https://github.com/npm/osenv) - Cross-platform environment variables.
+- [username](https://github.com/sindresorhus/username) - Get the current username.
 
 ## Support
 
