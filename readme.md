@@ -11,8 +11,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Applications](#applications)
   - [Continuous integration](#continuous-integration)
   - [Virtualization](#virtualization)
+  - [Compatibility](#compatibility)
   - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
+  - [OS identification](#os-identification)
+  - [Shell](#shell)
+  - [Environment](#environment)
+  - [Filesystem](#filesystem)
+  - [Signals](#signals)
+  - [Processes](#processes)
+  - [Desktop UI](#desktop-ui)
 - [Support](#support)
 - [Contributing](#contributing)
 
@@ -21,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - a great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 - [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code.
+- [Core Node.js documentation](https://nodejs.org/en/docs/), especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 
 ## Known Issues
 
@@ -41,34 +50,82 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 
+### Compatibility
+
+- [Wine](https://www.winehq.org/): run Windows API calls on Linux, Mac, BSD and Solaris.
+- [Cygwin](https://www.cygwin.com/): run POSIX on Windows.
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10): run the Linux command line on Windows (ELF binary execution, system calls, filesystem, Bash, core utilities, common applications).
+- [MinGW](http://www.mingw.org/) - `gcc` on Windows.
+- [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
+
 ### Development Environment
 
 - [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
 - [MSOpenTech Redis](https://github.com/MSOpenTech/redis/releases/latest) - A build of Redis maintained by Microsoft Open Technologies.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - install C++ Build Tools for Windows using npm.
 
 ## Libraries
 
-- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+### OS identification
+
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
-- [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
-- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`.
+- [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux).
+- [getos](https://github.com/retrohacker/getos) - Retrieve current OS, including Linux distribution.
+- [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system.
+- [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information.
+
+### Shell
+
 - [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
-- [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
-- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
-- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
+- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
+- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
+- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
-- [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
-- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
-- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
-- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
-- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
+
+### Environment
+
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
+- [username](https://github.com/sindresorhus/username) - Get the current username.
+- [osenv](https://github.com/npm/osenv) - Cross-platform environment variables.
+- [is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges.
+- [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
+
+### Filesystem
+
+- [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
+- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`.
+- [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`.
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
+- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+
+### Signals
+
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
+- [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
+
+### Processes
+
+- [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes.
+- [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists.
+
+### Desktop UI
+
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
+
+### Windows registry
+
+- [node-winreg](https://github.com/fresc81/node-winreg) - Access the Windows registry.
+- [rage-edit](https://github.com/MikeKovarik/rage-edit) - Access/modify the Windows registry.
+- [windows-registry-node](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file assocations.
 
 ## Support
 
