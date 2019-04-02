@@ -8,10 +8,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Resources](#resources)
 - [Known Issues](#known-issues)
-- [Online Tools](#online-tools)
-- [Applications](#applications)
-  - [Virtualization](#virtualization)
-  - [Development Environment](#developer-environment)
+- [Continuous integration](#continuous-integration)
+- [Virtualization](#virtualization)
+- [Development Environment](#developer-environment)
 - [Libraries](#libraries)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -34,14 +33,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AppVeyor](http://www.appveyor.com/) - Focused on Windows. Free tiers are available for OSS projects.
 - [Travis](https://travis-ci.org/) - Windows/MacOS/Linux. Free for OSS projects.
 
-## Applications
-
-### Virtualization
+## Virtualization
 
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 
-### Development Environment
+## Development Environment
 
 - [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
