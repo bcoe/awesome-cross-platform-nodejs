@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [MinGW](http://www.mingw.org/) - `gcc` on Windows.
+- [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
 
 ## Libraries
 
