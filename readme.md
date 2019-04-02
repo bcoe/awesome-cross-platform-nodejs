@@ -8,9 +8,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Resources](#resources)
 - [Known Issues](#known-issues)
-- [Continuous integration](#continuous-integration)
-- [Virtualization](#virtualization)
-- [Development Environment](#developer-environment)
+- [Applications](#applications)
+  - [Continuous integration](#continuous-integration)
+  - [Virtualization](#virtualization)
+  - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -28,17 +29,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-gyp on Windows](https://github.com/nodejs/node-gyp/issues/629) - it can be quite painful to compile native modules on Windows.
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
 
-## Continuous integration
+## Applications
+
+### Continuous integration
 
 - [AppVeyor](http://www.appveyor.com/) - Focused on Windows. Free tiers are available for OSS projects.
 - [Travis](https://travis-ci.org/) - Windows/MacOS/Linux. Free for OSS projects.
 
-## Virtualization
+### Virtualization
 
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
 
-## Development Environment
+### Development Environment
 
 - [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
