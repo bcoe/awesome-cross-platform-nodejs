@@ -29,9 +29,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-gyp on Windows](https://github.com/nodejs/node-gyp/issues/629) - it can be quite painful to compile native modules on Windows.
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
 
-## Online Tools
+## Continuous integration
 
-- [AppVeyor](http://www.appveyor.com/) - Continuous integration service for Windows. Free tiers are available for OSS projects.
+- [AppVeyor](http://www.appveyor.com/) - Focused on Windows. Free tiers are available for OSS projects.
+- [Travis](https://travis-ci.org/) - Windows/MacOS/Linux. Free for OSS projects.
 
 ## Applications
 
