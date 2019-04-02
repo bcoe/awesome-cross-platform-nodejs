@@ -13,6 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Virtualization](#virtualization)
   - [Development Environment](#developer-environment)
 - [Libraries](#libraries)
+- [Support](#support)
+- [Contributing](#contributing)
 
 ## Resources
 
@@ -68,3 +70,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Cross-platform copy/paste.
+
+## Support
+
+If you found an error or would like to add more information, _don't hesitate_ to
+[submit an issue on GitHub](../../issues).
+
+## Contributing
+
+This project was made with ❤️. The simplest way to give back is by starring and
+sharing it online.
+
+If the documentation is unclear or has a typo, please click on the page's `Edit`
+button (pencil icon) and suggest a correction.
+
+If you would like to help us fix an error or add more information, please check
+our [guidelines](CONTRIBUTING.md). Pull requests are welcome!
+
+Thanks goes to these wonderful people:
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- prettier-ignore -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
