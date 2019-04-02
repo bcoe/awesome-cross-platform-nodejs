@@ -57,7 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
 - [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
-- [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables. Cross-platform.
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
 - [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
