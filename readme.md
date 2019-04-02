@@ -50,37 +50,56 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
-- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+### OS identification
+
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
-- [rimraf](https://github.com/isaacs/rimraf) - Cross-platform `rm -rf`.
-- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`.
-- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
-- [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
-- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
-- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
-- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
-- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
-- [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
-- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
-- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
-- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
-- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
-- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
-- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
-- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
-- [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
-- [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`.
-- [osenv](https://github.com/npm/osenv) - Cross-platform environment variables.
-- [username](https://github.com/sindresorhus/username) - Get the current username.
-- [getos](https://github.com/retrohacker/getos) - Retrieve current OS, including Linux distribution.
 - [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux).
+- [getos](https://github.com/retrohacker/getos) - Retrieve current OS, including Linux distribution.
 - [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information.
+
+### Shell
+
+- [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
+- [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
+- [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
+- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
+
+### Environment
+
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
+- [username](https://github.com/sindresorhus/username) - Get the current username.
+- [osenv](https://github.com/npm/osenv) - Cross-platform environment variables.
 - [is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges.
+- [which](https://github.com/npm/node-which) - Cross-platform implementation of Unix's `which`.
+
+### Filesystem
+
+- [rimraf](https://github.com/isaacs/rimraf) / [del](https://github.com/sindresorhus/del) - Delete files and folders. Cross-platform.
+- [make-dir](https://github.com/sindresorhus/make-dir) - Cross-platform `mkdir -p`.
+- [readdirp](https://github.com/paulmillr/readdirp) - Recursive version of `fs.readdir()`.
+- [cpy](https://github.com/sindresorhus/cpy) - Copy files. Cross-platform.
+- [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
+- [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+
+### Signals
+
+- [fkill](https://github.com/sindresorhus/fkill-cli) - Kill processes. Cross-platform.
+- [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
+
+### Processes
+
 - [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes.
 - [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists.
+
+### Desktop UI
+
+- [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
+- [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
 
 ## Support
 
