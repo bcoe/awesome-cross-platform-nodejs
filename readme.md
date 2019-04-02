@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux).
 - [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information.
+- [is-elevated](https://github.com/sindresorhus/is-elevated) - Check if the process is running with elevated privileges.
 
 ## Support
 
