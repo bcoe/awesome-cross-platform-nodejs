@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [username](https://github.com/sindresorhus/username) - Get the current username.
 - [getos](https://github.com/retrohacker/getos) - Retrieve current OS, including Linux distribution.
 - [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux).
+- [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system.
 
 ## Support
 
