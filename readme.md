@@ -32,12 +32,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - a great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
-## Known issues
-
-- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - by default, `cmd.exe` does not display Unicode characters on Windows.
-- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
-- [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
-
 ## Applications
 
 ### Development environment
@@ -128,6 +122,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-winreg](https://github.com/fresc81/node-winreg) - Access the Windows registry.
 - [rage-edit](https://github.com/MikeKovarik/rage-edit) - Access/modify the Windows registry.
 - [windows-registry-node](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file assocations.
+
+## Known issues
+
+- [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - by default, `cmd.exe` does not display Unicode characters on Windows.
+- [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
+- [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
 
 ## Support
 
