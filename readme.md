@@ -73,7 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [is-windows](https://github.com/jonschlinkert/is-windows) - Detect whether the current platform is Windows.
 - [is-wsl](https://github.com/sindresorhus/is-wsl) - Detect whether current platform is WSL (Windows Subsystem for Linux).
-- [getos](https://github.com/retrohacker/getos) - Retrieve current OS, including Linux distribution.
+- [getos](https://github.com/retrohacker/getos) - Retrieve the current OS, including Linux distribution.
 - [os-name](https://github.com/sindresorhus/os-name) - Get the name of the current operating system.
 - [systeminformation](https://github.com/sebhildebrandt/systeminformation) - Hardware/software system information.
 
