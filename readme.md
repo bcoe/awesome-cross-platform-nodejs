@@ -36,7 +36,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - by default, cmd.exe does not display unicode characters on Windows.
 - [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
-- [node-gyp on Windows](https://github.com/nodejs/node-gyp/issues/629) - it can be quite painful to compile native modules on Windows.
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
 
 ## Applications
