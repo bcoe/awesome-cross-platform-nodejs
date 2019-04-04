@@ -60,7 +60,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Development Environment
 
-- [Atom](https://github.com/atom/atom/releases/latest) - A cross-platform, full-featured, hackable text editor.
 - [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
 - [Windows Redis](https://github.com/tporadowski/redis) - A native port of Redis for Windows.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
