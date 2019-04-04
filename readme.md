@@ -7,12 +7,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 - [Resources](#resources)
-- [Known Issues](#known-issues)
+- [Known issues](#known-issues)
 - [Applications](#applications)
+  - [Development environment](#developer-environment)
   - [Continuous integration](#continuous-integration)
   - [Virtualization](#virtualization)
   - [Compatibility](#compatibility)
-  - [Development Environment](#developer-environment)
+  - [Databases](#databases)
 - [Libraries](#libraries)
   - [OS identification](#os-identification)
   - [Shell](#shell)
@@ -26,12 +27,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
+- [Core Node.js documentation](https://nodejs.org/en/docs/), especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
+- [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - a great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
-- [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code.
-- [Core Node.js documentation](https://nodejs.org/en/docs/), especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 
-## Known Issues
+## Known issues
 
 - [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - by default, cmd.exe does not display unicode characters on Windows.
 - [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
@@ -39,6 +40,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
 
 ## Applications
+
+### Development environment
+
+- [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
+- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
+- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
+- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm.
 
 ### Continuous integration
 
@@ -58,13 +66,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MinGW](http://www.mingw.org/) - `gcc` on Windows.
 - [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) - Bash on Windows.
 
-### Development Environment
+### Databases
 
-- [Node.js](https://nodejs.org/en/download/) - Node.js installer for various platforms.
 - [Windows Redis](https://github.com/tporadowski/redis) - A native port of Redis for Windows.
-- [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
-- [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm.
 
 ## Libraries
 
