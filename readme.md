@@ -8,7 +8,6 @@
 ## Table of Contents
 
 - [Resources](#resources)
-- [Known issues](#known-issues)
 - [Applications](#applications)
   - [Development environment](#developer-environment)
   - [Continuous integration](#continuous-integration)
@@ -23,6 +22,8 @@
   - [Signals](#signals)
   - [Processes](#processes)
   - [Desktop UI](#desktop-ui)
+  - [Windows registry](#windows-registry)
+- [Known issues](#known-issues)
 - [Support](#support)
 - [Contributing](#contributing)
 
