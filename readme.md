@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Databases
 
-- [Windows Redis](https://github.com/tporadowski/redis) - A native port of Redis for Windows.
+- [Redis](https://github.com/tporadowski/redis) - A native port of Redis for Windows.
 
 ## Libraries
 
