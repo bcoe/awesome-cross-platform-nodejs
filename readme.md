@@ -5,7 +5,7 @@
 
 > A curated list of awesome developer tools for writing cross-platform Node.js code.
 
-## Table of Contents
+## Contents
 
 - [Resources](#resources)
 - [Applications](#applications)
