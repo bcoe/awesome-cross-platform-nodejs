@@ -24,7 +24,6 @@
   - [Windows registry](#windows-registry)
 - [Known issues](#known-issues)
 - [Support](#support)
-- [Contributing](#contributing)
 
 ## Resources
 
