@@ -8,7 +8,7 @@
 
 - [Resources](#resources)
 - [Applications](#applications)
-  - [Development environment](#developer-environment)
+  - [Development environment](#development-environment)
   - [Continuous integration](#continuous-integration)
   - [Virtualization](#virtualization)
   - [Compatibility](#compatibility)
