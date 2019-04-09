@@ -40,6 +40,8 @@
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations of Node.js on a Windows computer.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm.
+- [n](https://github.com/tj/n) - Node version management for macOS/Linux 
+- [nvm](https://github.com/creationix/nvm) - Node Version Manager for macOS/Linux
 
 ### Continuous integration
 
