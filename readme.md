@@ -121,7 +121,7 @@
 
 - [node-winreg](https://github.com/fresc81/node-winreg) - Access the Windows registry.
 - [rage-edit](https://github.com/MikeKovarik/rage-edit) - Access/modify the Windows registry.
-- [windows-registry-node](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file assocations.
+- [windows-registry-node](https://github.com/CatalystCode/windows-registry-node) - Access/modify the Windows registry and set file associations.
 
 ## Known issues
 
