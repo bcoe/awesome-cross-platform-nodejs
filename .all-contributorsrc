@@ -50,6 +50,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "Jason-Cooke",
+      "name": "Jason Cooke",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5185660?v=4",
+      "profile": "https://nz.linkedin.com/in/jsonc11",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7
