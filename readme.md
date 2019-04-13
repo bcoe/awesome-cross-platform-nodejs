@@ -124,6 +124,7 @@
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
 - [electron](https://electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+- [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable that can be run even on devices without Node.js installed.
 
 ### Windows registry
 
