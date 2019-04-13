@@ -122,6 +122,7 @@
 
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
+- [electron](https://electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 
 ### Windows registry
 
