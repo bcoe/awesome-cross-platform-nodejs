@@ -7,8 +7,6 @@
   <p>A curated list of awesome developer tools for writing cross-platform Node.js code.</p>
 </div>
 
-> A curated list of awesome developer tools for writing cross-platform Node.js code.
-
 ## Contents
 
 - [Resources](#resources)
