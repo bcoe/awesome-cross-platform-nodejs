@@ -43,6 +43,17 @@
       ]
     },
     {
+      "login": "Hongarc",
+      "name": "Hongarc",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19208123?v=4",
+      "profile": "https://fb.com/RemoveU",
+      "contributions": [
+        "design",
+        "doc",
+        "code"
+      ]
+    },
+    {
       "login": "kentcdodds",
       "name": "Kent C. Dodds",
       "avatar_url": "https://avatars0.githubusercontent.com/u/1500684?v=4",
@@ -103,17 +114,6 @@
       "profile": "http://sylvain.pontoreau.com",
       "contributions": [
         "doc"
-      ]
-    },
-    {
-      "login": "Hongarc",
-      "name": "Hongarc",
-      "avatar_url": "https://avatars1.githubusercontent.com/u/19208123?v=4",
-      "profile": "https://fb.com/RemoveU",
-      "contributions": [
-        "design",
-        "doc",
-        "code"
       ]
     }
   ],
