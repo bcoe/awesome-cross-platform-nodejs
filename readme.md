@@ -92,7 +92,7 @@
 
 ### Environment
 
-- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [cross-env](https://github.com/kentcdodds/cross-env) / [dotenv](https://github.com/motdotla/dotenv) - Set environment variables cross-platform.
 - [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory. Cross-platform.
 - [username](https://github.com/sindresorhus/username) - Get the current username.
 - [osenv](https://github.com/npm/osenv) - Cross-platform environment variables.
