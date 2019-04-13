@@ -56,6 +56,7 @@
 
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
+- [Docker](https://www.docker.com/) - A software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.
 
 ### Compatibility
 
