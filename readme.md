@@ -4,6 +4,7 @@
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge.svg" alt="Awesome">
   </a>
+  <p>A curated list of awesome developer tools for writing cross-platform Node.js code.</p>
 </div>
 
 > A curated list of awesome developer tools for writing cross-platform Node.js code.
