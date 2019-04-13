@@ -51,6 +51,7 @@
 - [AppVeyor](http://www.appveyor.com/) - Focused on Windows. Free tiers are available for OSS projects.
 - [Travis](https://travis-ci.org/) - Windows/macOS/Linux. Free for OSS projects.
 - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - Windows/macOS/Linux. Free for OSS projects with 10 parallel jobs.
+- [CircleCI](https://circleci.com/) - Linux, macOS, and Android. Free for OSS and COS projects - 1000 monthly build minutes.
 
 ### Virtualization
 
