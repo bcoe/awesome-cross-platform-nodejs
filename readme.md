@@ -167,4 +167,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## License
 
-[![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-4cc61e.svg?logo=github)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License](https://img.shields.io/github/license/bcoe/awesome-cross-platform-nodejs.svg?color=4cc61e&logo=github)](https://creativecommons.org/licenses/by-sa/4.0/)
