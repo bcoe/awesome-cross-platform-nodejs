@@ -89,6 +89,7 @@
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
 
 ### Environment
 
