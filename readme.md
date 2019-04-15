@@ -85,11 +85,11 @@
 - [execa](https://github.com/sindresorhus/execa) - Cross-platform implementation of `child_process.{execFile,exec}`.
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - Cross-platform implementation of `child_process.spawn()`.
 - [shelljs](https://github.com/shelljs/shelljs) - Cross-platform Unix shell commands.
+- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
 - [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels with Windows fallbacks.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
-- [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
 
 ### Environment
 
