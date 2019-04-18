@@ -122,7 +122,6 @@
 
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables. Cross-platform.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - Cross-platform desktop notifications.
-- [electron](https://electronjs.org/) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
 
 ### Windows registry
 
@@ -135,6 +134,10 @@
 - [cmd.exe unicode woes](https://github.com/nodejs/node-v0.x-archive/issues/7940) - by default, `cmd.exe` does not display Unicode characters on Windows.
 - [spawn issues](https://github.com/nodejs/node-v0.x-archive/issues/2318) - `child_process.spawn()` behavior is not consistent between Windows and Linux.
 - [exec() behavior between shells](https://github.com/isaacs/spawn-wrap#contracts-and-caveats) - depending on the shell being used, e.g., bash vs. dash, `child_process.exec()` has inconsistent exit behavior.
+
+## See also
+
+- [awesome-desktop-js](https://github.com/styfle/awesome-desktop-js) - List of tools to build JavaScript applications on the desktop.
 
 ## Support
 
