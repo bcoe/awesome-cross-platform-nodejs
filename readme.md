@@ -33,7 +33,7 @@
 - [Core Node.js documentation](https://nodejs.org/en/docs/) - Especially the [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) and [`child_process`](https://nodejs.org/api/child_process.html) modules.
 - [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - How to write cross-platform Node.js code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-- [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - A great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
+- [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - Great tutorial covering many common issues that arise when writing cross-platform code: path creation, script execution, newline characters.
 
 ## Applications
 
@@ -55,7 +55,7 @@
 
 - [ievms](https://github.com/amichaelparker/ievms) - Automated installer for the free virtual machine images that Microsoft provides for testing on multiple versions of IE. These images can be useful for cross-platform testing various technologies, however make sure you read and understand Microsofts' licensing.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - General purpose software for running x86 virtual machines.
-- [Docker](https://www.docker.com/) - A software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.
+- [Docker](https://www.docker.com/) - Software platform to create, deploy and manage virtualized application containers on a common operating system, with an ecosystem of allied tools.
 
 ### Compatibility
 
@@ -67,7 +67,7 @@
 
 ### Databases
 
-- [Redis](https://github.com/tporadowski/redis) - A native port of Redis for Windows.
+- [Redis](https://github.com/tporadowski/redis) - Native port of Redis for Windows.
 
 ## Libraries
 
