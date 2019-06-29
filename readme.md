@@ -107,6 +107,7 @@
 - [chokidar](https://github.com/paulmillr/chokidar) - Improved cross-platform file watching.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Improves the `fs` module, especially on Windows.
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`.
 
 ### Signals
 
