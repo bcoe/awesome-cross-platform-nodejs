@@ -23,6 +23,7 @@
   - [Filesystem](#filesystem)
   - [Signals](#signals)
   - [Processes](#processes)
+  - [Streams](#streams)
   - [Desktop UI](#desktop-ui)
   - [Windows registry](#windows-registry)
 - [Known issues](#known-issues)
@@ -118,6 +119,10 @@
 
 - [ps-list](https://github.com/sindresorhus/ps-list) - Get running processes.
 - [process-exists](https://github.com/sindresorhus/process-exists) - Check if a process exists.
+
+### Streams
+
+- [noop-stream](https://github.com/sindresorhus/noop-stream) - Cross-platform `fs.createReadStream('/dev/null')`.
 
 ### Desktop UI
 
