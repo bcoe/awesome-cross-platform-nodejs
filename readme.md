@@ -114,6 +114,7 @@
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 - [any-path](https://github.com/bcoe/any-path) - Use Windows and POSIX paths interchangeably when fetching values from an object.
 - [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - Cross-platform `/dev/null`.
+- [global-cache-dir](https://github.com/ehmicky/global-cache-dir) - Get the global OS-specific cache directory.
 
 ### Signals
 
