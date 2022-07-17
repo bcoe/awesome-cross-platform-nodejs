@@ -119,6 +119,7 @@
 
 - [fkill](https://github.com/sindresorhus/fkill) - Kill processes. Cross-platform.
 - [signal-exit](https://github.com/tapjs/signal-exit) - Cross-platform `exit` handler.
+- [human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals.
 
 ### Processes
 
