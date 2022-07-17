@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo_dark.svg"/>
+    <img alt="awesome-cross-platform-nodejs logo" src="logo.svg" width="500"/>
+  </picture>
   <br>
   <a href="https://awesome.re">
 	  <img src="https://awesome.re/badge.svg" alt="Awesome">
