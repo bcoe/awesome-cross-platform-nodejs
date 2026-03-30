@@ -49,6 +49,7 @@
 - [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm.
+- [DevKits](https://devkits.aiforeverthing.com) - 82+ free developer tools including JSON Formatter, JWT Decoder, Base64, Regex Tester. Works offline on all platforms.
 
 ### Continuous integration
 
