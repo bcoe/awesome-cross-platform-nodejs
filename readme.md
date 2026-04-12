@@ -187,5 +187,6 @@ Thanks go to these wonderful people:
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 
 ## License
+scrape
 
 [![License](https://img.shields.io/github/license/bcoe/awesome-cross-platform-nodejs.svg?color=4cc61e&logo=github)](https://creativecommons.org/licenses/by-sa/4.0/)
