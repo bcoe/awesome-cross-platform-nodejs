@@ -49,6 +49,7 @@
 - [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) - Node version manager for macOS/Linux.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - Install C++ Build Tools for Windows using npm.
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive API documentation, typed SDKs and MCP servers from API specifications on Windows, macOS and Linux.
 
 ### Continuous integration
 
