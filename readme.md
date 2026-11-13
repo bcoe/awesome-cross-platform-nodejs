@@ -57,6 +57,7 @@
 - [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) - Windows/macOS/Linux. Free for OSS projects with 10 parallel jobs.
 - [GitHub Actions](https://github.com/features/actions) - Windows/macOS/Linux. GitHub Actions makes it easy to automate all your software workflows.
 - [Gitlab CI](https://docs.gitlab.com/ee/ci/) - Windows/macOS/Linux. GitLab CI/CD is a tool built into GitLab for software development.
+- [Buddy](https://buddy.works/) - Windows/macOS/Linux. Pipelines run commands in Linux containers and on native Windows and macOS virtual machines.
 
 ### Virtualization
 
